@@ -1,10 +1,8 @@
-# Hi there 👋
+# Hi 👋
 
-I'm **Tianyao Tan**.
+I'm **Steven**.
 
 🎓 M.Sc. in Physics, The Hong Kong University of Science and Technology
-
----
 
 ## 🔬 Research Interests
 
@@ -16,16 +14,10 @@ I'm **Tianyao Tan**.
 - Semiconductor Materials
 - Raman Spectroscopy
 - Quantum Computing
-- Computational Materials Science
-
-
----
 
 ## 📖 Research Vision
 
 To bridge modern machine learning with physical sciences, enabling deeper understanding of materials, spectroscopy, and quantum systems through data-driven approaches.
-
----
 
 ## 🌱 Currently Exploring
 
